@@ -1,0 +1,23 @@
+{
+    "guardador": {
+        "4": {
+            "Sala": 2,
+            "Descripcion": "fafef",
+            "Inicio": "2026-02-18 10:00:00",
+            "Fin": "2026-02-18 13:00:00",
+            "Duracion": 3.0,
+            "Recursos": [],
+            "Estado": "CONFIRMADA"
+        },
+        "5": {
+            "Sala": 4,
+            "Descripcion": "sdaffs",
+            "Inicio": "2026-02-18 10:00:00",
+            "Fin": "2026-02-18 13:00:00",
+            "Duracion": 3.0,
+            "Recursos": [],
+            "Estado": "CONFIRMADA"
+        }
+    },
+    "identidad": 6
+}

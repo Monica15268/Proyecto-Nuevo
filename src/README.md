@@ -62,6 +62,14 @@ A medida que Ludopath continúa evolucionando, hay varias áreas donde se pueden
 
 Además, se podría explorar la posibilidad de integrar métodos de pago directamente en la aplicación, lo que facilitaría aún más el proceso para los usuarios. Esto no solo aumentaría la comodidad para los clientes, sino que también podría abrir nuevas oportunidades comerciales al permitir promociones o descuentos exclusivos.
 
+##Dificultades durante la realización del proyecto 
+
+En primer lugar, me costó un poco ajustar los horarios de validación, además de checar si la sala estaba disponible. Por otra parte, a la hora de gestionar los recursos demoré un poco en entender la lógica, pero se logró.Esto me permitió comprender mejor los ciclos while y el uso de las condicionales 
+
+##Cosas aprendidas durante la realización:
+
+Aprendí a manejar las condicionales, las bases de datos, como llamar funciones para que hagan ciertas tareas específicas, y como manejar ciertos errores comunes de la programación como lo son los bucles infinitos 
+
 
 ## Tecnologias y lenguajes utilizados 
 
